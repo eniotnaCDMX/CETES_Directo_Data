@@ -1,1 +1,3 @@
 # CETES_Directo_Data
+
+This repository contains CSV files representing the weekly evolution of the interest rate of mexican governmental financial products, such as CETES, BONDDIA,etc ... 
